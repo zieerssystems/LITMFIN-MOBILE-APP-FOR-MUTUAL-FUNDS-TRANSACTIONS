@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "litmfinapp",
+    "slug": "litmfinapp",
+    "version": "1.0.0",
+    "android": {
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "INTERNET"
+      ],
+      "package": "com.sandrashaji26.litmfinapp"
+    },
+    "extra": {
+      "eas": {
+        
+        "projectId": "7e1c518d-2be1-45d0-ae6f-8d9f65cc1019",
+        "apiUrl": "http://192.168.1.40/litmfin.com/api/user_login"
+      }
+    }
+  }
+}
